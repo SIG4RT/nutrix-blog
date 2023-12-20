@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Max' Blog
-email: max.mustermann@gmail.com
+title:  My programming journey creating my very first CRUD application
+email: sigart.patrick@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal blog where I sometimes write some stuff.
-baseurl: "/pbl-blog" # the subpath of your site, e.g. /blog
+  This little blog showcases snippets from my coding journey working on my first project.
+baseurl: "/nutrix-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
