@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  My programming journey creating my very first CRUD application
+title:  My Coding Journey
 email: sigart.patrick@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This little blog showcases snippets from my coding journey working on my first project.
